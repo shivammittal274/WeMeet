@@ -1,0 +1,19 @@
+.time {
+    height: 60;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.time_display {
+    font-size: 1.4em;
+    font-weight: 300;
+    margin-right: 10px;
+}
+
+.date_display {
+    font-size: 1.4em;
+    font-weight: 300;
+}

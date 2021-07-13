@@ -1,0 +1,44 @@
+html, body {
+  	height: 100%;
+}
+body {
+	margin: 0;
+	text-align: center;
+	background-color: '#FFFFFF'; 
+	/* whitesmoke; */
+	/* overflow: hidden; */
+}
+.back {
+	height: 100%;
+	background-position: top;
+	background-size: cover;
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: -1;
+	margin-left: 500px;
+	padding-top: 0;
+	height: 550px;
+	position: absolute;
+	margin-top: 100px;
+	width: 900px;
+}
+
+.container2 {
+	padding-top: 20px;
+	/* background-image: url("./images/7102.jpg"); */
+	margin: auto;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.bombat{
+	background-image: linear-gradient(to right, #041629, #041629);
+	color:#ffffff;
+  }
+
+.googleStyle{
+	color:#ffffff;
+}
