@@ -38,6 +38,6 @@ As there was less time for this to build/add more features, I would surely try t
 These features are very good to be in a video calling app. So, others, if you like my project, please contribute to this project. Would be very happy to continue building such a major open source project.
 
 
-If you are having any queries regarding this project, You can mail me Shivam Mittal Would be very happy to help out.
+If you are having any queries regarding this project, You can mail me at mittal.shivam103@gmail.com Would be very happy to help out.
 
 Thanks
