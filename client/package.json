@@ -2,8 +2,8 @@
   "name": "evac-meetings",
   "version": "0.2.3",
   "private": true,
-  "author": "Pranav M S",
-  "description": "EVAC - Encrypted Video Audio Conferencing is a WebRTC based Webapp for Video Confrencing",
+  "author": "Shivam",
+  "description": "WeMeet : Video Conferencing Application",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
